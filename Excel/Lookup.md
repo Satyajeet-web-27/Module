@@ -6,7 +6,7 @@ We'll cover **all the major Excel lookup techniques step by step**, from traditi
 
 We'll use your practice workbook:
 
-**:chatgpt-content-reference{index="0"}[Download Excel Lookup Practice Dataset](https://docs.google.com/spreadsheets/d/1cumxz8LRh57wQOArZDCeBPZiolrS2Yla/edit?usp=sharing&ouid=102053457056127151946&rtpof=true&sd=true)**
+**[Download Excel Lookup Practice Dataset](https://docs.google.com/spreadsheets/d/1cumxz8LRh57wQOArZDCeBPZiolrS2Yla/edit?usp=sharing&ouid=102053457056127151946&rtpof=true&sd=true)**
 
 I'll teach you one lesson at a time. Each lesson will contain explanations, syntax, worked examples, exercises, and a short assessment. We'll correct mistakes before progressing.
 
