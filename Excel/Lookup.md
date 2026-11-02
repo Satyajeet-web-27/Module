@@ -1159,19 +1159,3 @@ This project demonstrates how lookup functions can automate real-world reporting
 | Handle missing lookup results               | `IFNA()` or `XLOOKUP()`'s `if_not_found` argument |
 | Choose from a fixed list of values          | `CHOOSE()`                                        |
 | Build a shifted cell reference              | `OFFSET()`                                        |
-
-## How We Should Continue
-
-The material above gives you the complete roadmap and an overview of the main techniques. However, **reading every formula once is not the same as mastering it**.
-
-I recommend that we now work through the lessons interactively, starting with VLOOKUP practice, then HLOOKUP, and continuing in order.
-
-### Your first assignment
-
-Open the practice workbook and solve these three questions:
-
-1. Use `VLOOKUP()` to find the name of employee `E1008`.
-2. Use `HLOOKUP()` to find the price of Keyboard in May.
-3. Use `XLOOKUP()` to find the employee ID of `Ananya Bose`.
-
-Send me your three formulas and results. I'll assess them, explain any mistakes, and then guide you through the next lesson with more challenging examples.
