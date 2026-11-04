@@ -622,7 +622,7 @@ This is a powerful pattern for horizontal and vertical lookup combinations.
 
 ---
 
-# Part 3 — Upper Intermediate Level
+# Upper Intermediate Level
 
 ## Lesson 11: Lookup with Multiple Criteria
 
@@ -713,7 +713,7 @@ Result: `P2012`
 
 ---
 
-# Part 4 — Advanced Level
+# Advanced Level
 
 ## Lesson 13: FILTER() — Return All Matching Results
 
@@ -949,7 +949,7 @@ Result: the value in `C2`.
 
 ---
 
-# Part 5 — Error Handling and Formula Design
+# PError Handling and Formula Design
 
 ## Lesson 20: IFNA() vs. IFERROR()
 
@@ -982,7 +982,7 @@ Avoid hiding every error automatically when debugging. A formula error may indic
 
 ---
 
-# Part 6 — Professional Lookup Techniques
+# Professional Lookup Techniques
 
 ## Lesson 21: Lookup Using Excel Tables
 
