@@ -1,18 +1,14 @@
-# Excel Lookup Masterclass
+# **Excel Lookup**
 
-## Complete Course: Beginner to Advanced — Microsoft 365
+## Complete Course: Beginner to Advanced — **Microsoft 365**
 
 We'll cover **all the major Excel lookup techniques step by step**, from traditional `VLOOKUP()` to advanced combinations of `XLOOKUP()`, `INDEX()`, `MATCH()`, `XMATCH()`, and `FILTER()`.
 
-We'll use your practice workbook:
+We'll use this practice workbook:
 
-**[Download Excel Lookup Practice Dataset](https://docs.google.com/spreadsheets/d/1cumxz8LRh57wQOArZDCeBPZiolrS2Yla/edit?usp=sharing&ouid=102053457056127151946&rtpof=true&sd=true)**
+**[Download Excel Lookup Practice Dataset](https://docs.google.com/spreadsheets/d/1uSm7sp9royncTOcgbCHHnK-260UwtHum/edit?usp=sharing&ouid=102053457056127151946&rtpof=true&sd=true)**
 
-I'll teach you one lesson at a time. Each lesson will contain explanations, syntax, worked examples, exercises, and a short assessment. We'll correct mistakes before progressing.
-
----
-
-# Part 1 — Beginner Level
+Each lesson will contain explanations, syntax, worked examples, exercises, and a short assessment.
 
 ## Lesson 1: Understanding Lookup Functions
 
@@ -213,7 +209,7 @@ The data is arranged like this:
 To retrieve the price of Mouse in May:
 
 ```excel
-=HLOOKUP("May",B1:G4,2,FALSE)
+=HLOOKUP("May",B1:G6,3,FALSE)
 ```
 
 Result: `690`
@@ -221,21 +217,9 @@ Result: `690`
 Explanation:
 
 - `"May"` is the lookup value.
-- `B1:G4` contains the month headings and price rows.
-- `2` selects the second row of the selected range.
+- `B1:G6` contains the month headings and price rows.
+- `3` selects the third row of the selected range.
 - `FALSE` requires an exact match.
-
-### 3.3 HLOOKUP using cell references
-
-Suppose `I2` contains `May`.
-
-```excel
-=HLOOKUP(I2,B1:G4,2,FALSE)
-```
-
-This formula returns the price from the second row of the selected range.
-
-**Important:** The row number is relative to the selected range, not the worksheet row number.
 
 ### VLOOKUP vs. HLOOKUP
 
@@ -280,8 +264,6 @@ If `A2:A8` contains ascending minimum marks and `B2:B8` contains the correspondi
 For new workbooks, consider `XLOOKUP()` for greater control and readability.
 
 ---
-
-# Part 2 — Intermediate Level
 
 ## Lesson 5: XLOOKUP() — The Modern Lookup Function
 
